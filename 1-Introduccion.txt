@@ -1,0 +1,16 @@
+Introducción al lenguaje PHP.
+
+PHP es un lenguaje de programacion del lado del servidor.
+Necesita un servidor para poder ejecutarse.
+
+Nos encontramos con la filosofia cliente servidor.
+
+Es el servidor el que se encarga de enviar la informacion al cliente, se entiende por cliente el navegador.
+Para el desarrollo de este curso usaremos MAMP.
+
+¿Porque es necesario aprenderlo?
+
+- Wordpress es un CMS (sistema de gestion de contenidos) que permite crear sitios web.
+- Lo hace gracias a una BBDD que almacena la información.
+- Su BBDD funciona con MySQL pero que Wordpress nos ofrece una capa superior en PHP para interactuar con ella.
+- A este tipo de sitios se les denomina dinámicos.
