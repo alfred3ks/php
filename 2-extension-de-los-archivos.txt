@@ -1,0 +1,5 @@
+Vamos a ver cual es la extesión que tenemos que usar para cuando usemos php.
+
+Pues si no hay ningun misterio es: .php
+
+nombre-archivo.php
