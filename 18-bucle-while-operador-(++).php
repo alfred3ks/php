@@ -22,16 +22,15 @@
   $fracaso = 0;
 
   while ($fracaso <= 10) {
-    echo "<p>Fracaso núnero:" . $fracaso . "</b>";
+    echo "<p>Fracaso núnero:" . $fracaso . "</p>";
     $fracaso++; // $fracaso = $fracaso + 1;
   }
-  echo "<br>";
 
   echo "Genial lo has logrado!!!";
 
   $contador = 0;
   while ($contador <= 5) {
-    echo "<p>Núnero:" . $contador . "</b>";
+    echo "<p>Núnero:" . $contador . "</p>";
     $contador++;
   }
 
