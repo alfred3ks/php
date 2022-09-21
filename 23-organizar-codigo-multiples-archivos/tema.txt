@@ -1,0 +1,17 @@
+Vamos a ver como organizar la información en multiples archivos.
+
+Vamos a crear una estructura mas elaborada. Tendremos las siguientes paginas:
+index.php
+
+Este primer archivo lo dejo original, vemos como toda la información esta en un solo archivo, lo que hare es un nuevo index.php y veemos como crear multiples archivos.
+
+Usaremos una funcion de php para incluir ficheros.
+
+include()
+
+<?php include("header.php"); ?>
+<?php include("footer.php"); ?>
+
+Asi separamos las porciones de codigo que se prepiten de la página.
+
+Seguimos...
